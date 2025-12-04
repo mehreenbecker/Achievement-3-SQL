@@ -6,3 +6,5 @@ Rockbuster Stealth LLC i s a movie rental company that used to have stores aroun
 
 Context
 To answer the questions posed by the different departments, you’ll query the data using SQL (short for structured query l anguage). Throughout this Achievement, you’ll l earn SQL incrementally, and you’ll use i t to answer i ncreasingly complex business questions for each task. The results of your analysis will be presented to Rockbuster management, so you’ll need to visualize the data i n an easy-to-consume manner. In other words, you’ll build on what you’ve l earned i n previous Achievements. Although you’ll be working with data from the online video streaming i ndustry for this project, the skills you develop could be applied to any i ndustry and will highlight your ability to solve problems for a variety of clients. The aim i s to give you hands-on experience with SQL. By the time you finish your project, you’ll be able to use SQL to perform various kinds of query-based analyses.
+
+[Click here to view my Tableau] (https://public.tableau.com/app/profile/mehreen.becker/viz/3_10PresentingSQLResults_17611246295030/Story1?publish=yes)
